@@ -51,6 +51,8 @@
     <Compile Include="03-Student\IScoreUpdater.cs" />
     <Compile Include="03-Student\ScoreManager.cs" />
     <Compile Include="03-Student\ScoreUpdater.cs" />
+    <Compile Include="04-Orchestator\IServices.cs" />
+    <Compile Include="04-Orchestator\Orchestrator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

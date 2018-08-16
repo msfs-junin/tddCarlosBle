@@ -49,7 +49,7 @@ namespace UnitTestEjemplosTDDBle
             IDataManager dataManagerMock = MockRepository.GenerateStrictMock<IDataManager>();
             dataManagerMock.Expect(x => x.GetByKey(studentId)).Return(dummyStudent);
             dataManagerMock.Expect(x => x.Save(dummyStudent));
-            IScoreUpdater scoreUpdaterMock = MockRepository.GenerateStrictMock<IScoreUpdater>();
+            IScoreUpdater scoreUpdaterMock = MockRepository.GenerateMock<IScoreUpdater>();
             scoreUpdaterMock.Expect(y => y.UpdateScore(dummyStudent, score)).Return(dummyStudent);
             ScoreManager smanager = new ScoreManager(dataManagerMock, scoreUpdaterMock);
             smanager.AddScore2(studentId, score);
@@ -65,7 +65,7 @@ namespace UnitTestEjemplosTDDBle
             IScoreUpdater scoreUpdaterMock =
             MockRepository.GenerateStrictMock<IScoreUpdater>();
             scoreUpdaterMock.Expect(y => y.UpdateScore(dummyStudent, score)).Return(dummyStudent);
-            IDataManager dataManagerMock = MockRepository.GenerateStrictMock<IDataManager>();
+            IDataManager dataManagerMock = MockRepository.GenerateMock<IDataManager>();
             dataManagerMock.Expect(x => x.Save(dummyStudent));
             ScoreManager smanager = new ScoreManager(dataManagerMock, scoreUpdaterMock);
             smanager.AddScore3(dummyStudent, score);
