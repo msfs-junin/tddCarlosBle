@@ -4,3 +4,9 @@ C:\Users\MSABATO\source\repos\UnitTestEjemplosTDDBle\EjemplosTDDBle\obj\Debug\Ej
 C:\Users\MSABATO\source\repos\UnitTestEjemplosTDDBle\EjemplosTDDBle\obj\Debug\EjemplosTDDBle.dll
 C:\Users\MSABATO\source\repos\UnitTestEjemplosTDDBle\EjemplosTDDBle\obj\Debug\EjemplosTDDBle.pdb
 C:\Users\MSABATO\source\repos\UnitTestEjemplosTDDBle\EjemplosTDDBle\obj\Debug\EjemplosTDDBle.csprojAssemblyReference.cache
+C:\Repos\tddCarlosBle\EjemplosTDDBle\bin\Debug\EjemplosTDDBle.dll
+C:\Repos\tddCarlosBle\EjemplosTDDBle\bin\Debug\EjemplosTDDBle.pdb
+C:\Repos\tddCarlosBle\EjemplosTDDBle\obj\Debug\EjemplosTDDBle.csprojAssemblyReference.cache
+C:\Repos\tddCarlosBle\EjemplosTDDBle\obj\Debug\EjemplosTDDBle.csproj.CoreCompileInputs.cache
+C:\Repos\tddCarlosBle\EjemplosTDDBle\obj\Debug\EjemplosTDDBle.dll
+C:\Repos\tddCarlosBle\EjemplosTDDBle\obj\Debug\EjemplosTDDBle.pdb

@@ -2,5 +2,6 @@
 {
     public interface IScoreUpdater
     {
+        Student UpdateScore(Student dummyStudent, float score);
     }
 }
