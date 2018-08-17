@@ -9,3 +9,4 @@ C:\Repos\tddCarlosBle\EjemplosTDDBle\bin\Debug\EjemplosTDDBle.pdb
 C:\Repos\tddCarlosBle\EjemplosTDDBle\obj\Debug\EjemplosTDDBle.csproj.CoreCompileInputs.cache
 C:\Repos\tddCarlosBle\EjemplosTDDBle\obj\Debug\EjemplosTDDBle.dll
 C:\Repos\tddCarlosBle\EjemplosTDDBle\obj\Debug\EjemplosTDDBle.pdb
+C:\Repos\tddCarlosBle\EjemplosTDDBle\obj\Debug\EjemplosTDDBle.csprojAssemblyReference.cache

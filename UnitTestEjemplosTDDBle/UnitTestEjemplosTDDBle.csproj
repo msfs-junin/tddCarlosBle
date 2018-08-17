@@ -55,6 +55,7 @@
     <Compile Include="03-Student\StudentTests.cs" />
     <Compile Include="01-Calendario\CalendarTest.cs" />
     <Compile Include="04-Orchestator\ServicesTests.cs" />
+    <Compile Include="05-MathTutor\CalculatorTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
